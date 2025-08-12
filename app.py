@@ -198,7 +198,7 @@ app.layout = html.Div(
             ],
         ),
         
-        # Right columnn
+        # Right columnnnnnnn
         html.Div(
             id="right-column",
             className="eight columns",
